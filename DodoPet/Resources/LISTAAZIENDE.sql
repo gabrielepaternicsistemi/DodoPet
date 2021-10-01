@@ -1,0 +1,1 @@
+select azcodaz, azdescr  FROM AZIENDE

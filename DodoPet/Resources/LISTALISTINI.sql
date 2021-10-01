@@ -1,0 +1,1 @@
+select tb_codlist, tb_deslist from tablist
